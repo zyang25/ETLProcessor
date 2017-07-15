@@ -1,0 +1,7387 @@
+[
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "10.241.105.1",
+    "serverName": "SVRT00004AB4",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "UWKT00004B05",
+    "ServerType": "DPS1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "UWKT00004B06",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "UWKT0000844B",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "UWKT0000844C",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "UWKT0000681A",
+    "ServerType": "UDC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "WKST00006514",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "WKST00006549",
+    "ServerType": "UDC03",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABEDN",
+    "ip": "DHCP",
+    "serverName": "UWKT00004B04",
+    "ServerType": "UDC1_DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "10.241.105.97",
+    "serverName": "SVRT00004D0A",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D8D",
+    "ServerType": "DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D90",
+    "ServerType": "DPS1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "DHCP",
+    "serverName": "UWKT00007192",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "DHCP",
+    "serverName": "WKST0000770F",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D87",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "DHCP",
+    "serverName": "WKST000085FF",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "ABYYC",
+    "ip": "DHCP",
+    "serverName": "WKST000071DD",
+    "ServerType": "UDC-02",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ACT",
+    "ip": "DHCP",
+    "serverName": "WKST000070C7",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ACT",
+    "ip": "DHCP",
+    "serverName": "WKST000070C9",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ACT",
+    "ip": "Not Available",
+    "serverName": "WKST00056830",
+    "ServerType": "Scripting PC",
+    "serverVersion": "Windows 7"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP000551A1",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP000552D7",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP00053BCB",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP000560E0",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP000551A9",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP000553A3",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP00056E55",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP0005CB58",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP0005EAB1",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "Not Available",
+    "serverName": "WKSP000617FE",
+    "ServerType": "AIS - Off Shore Dev PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP00052B59",
+    "ServerType": "AIS - Off Shore Test PC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP00062807",
+    "ServerType": "CAMPUSPC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP0006281E",
+    "ServerType": "CAMPUSPC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "WKSP000627fA",
+    "ServerType": "CAMPUSPC",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00006F4B",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00006F4C",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00006F4D",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00006F4E",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT0000439D",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT0000439E",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00006A4A",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00006A4C",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00007259",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00007DAE",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT000078F2",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT000078F4",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00007906",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT000083B5",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AIS",
+    "ip": "DHCP",
+    "serverName": "UWKT000083B6",
+    "ServerType": "PKGSYSPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Altiris Console",
+    "ip": "10.245.214.233",
+    "serverName": "SVRT000040E2",
+    "ServerType": "Altiris Console",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "AUPRH",
+    "ip": "DHCP, DHCP",
+    "serverName": "SVRT000059DD",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "AUPRH",
+    "ip": "Not Available",
+    "serverName": "UWKT00008125",
+    "ServerType": "GSSD / MainEdit",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "AUSYD",
+    "ip": "10.242.60.151",
+    "serverName": "UWKT0000658B",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "AUSYD",
+    "ip": "10.242.60.150",
+    "serverName": "UWKT0000658C",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.133",
+    "serverName": "SVRT0000433A",
+    "ServerType": "Admin 1",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.134",
+    "serverName": "SVRT00004348",
+    "ServerType": "Admin 2",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.135",
+    "serverName": "SVRT0000430A",
+    "ServerType": "Admin 3",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.144",
+    "serverName": "WKST00004339",
+    "ServerType": "Admin",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.145",
+    "serverName": "WKST0000433F",
+    "ServerType": "Admin",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.139",
+    "serverName": "WKST00004346",
+    "ServerType": "Cell Controller",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.140",
+    "serverName": "WKST00004349",
+    "ServerType": "Export WKS",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.142",
+    "serverName": "WKST0000434B",
+    "ServerType": "Irreg",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.143",
+    "serverName": "WKST0000433E",
+    "ServerType": "MFC",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.137",
+    "serverName": "WKST000042EF",
+    "ServerType": "OPLD",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.136",
+    "serverName": "WKST000042F0",
+    "ServerType": "OPLD",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.141",
+    "serverName": "WKST00004342",
+    "ServerType": "OPLD",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Automation Bigs",
+    "ip": "10.244.222.138",
+    "serverName": "WKST0000433D",
+    "ServerType": "PMG",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.222.185",
+    "serverName": "SVRT00003695",
+    "ServerType": "Admin 1",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.19",
+    "serverName": "SVRT000036EE",
+    "ServerType": "Admin 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.222.186",
+    "serverName": "SVRT0000369A",
+    "ServerType": "Admin 3",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.20",
+    "serverName": "SVRT000036ED",
+    "ServerType": "OPLD Server 1",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.21",
+    "serverName": "SVRT000036EF",
+    "ServerType": "OPLD Server 2",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.23",
+    "serverName": "UWKT000036F8",
+    "ServerType": "Cell Controller",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.24",
+    "serverName": "UWKT000036F5",
+    "ServerType": "Export WKS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.26",
+    "serverName": "UWKT000036F6",
+    "ServerType": "Irreg",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "DHCP",
+    "serverName": "WKST000036DA",
+    "ServerType": "MFC",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.25",
+    "serverName": "UWKT000036F7",
+    "ServerType": "OPLD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.218.22",
+    "serverName": "UWKT000036F4",
+    "ServerType": "PMG",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.222.167",
+    "serverName": "UWKT00003A53",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "BIGS - Server 2008",
+    "ip": "10.244.222.166",
+    "serverName": "UWKT00003A54",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.134",
+    "serverName": "SVRT00007DCF",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.132",
+    "serverName": "SVRT00007DC5",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.131",
+    "serverName": "SVRT00007DF4",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.136",
+    "serverName": "SVRT00007DD1",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.140",
+    "serverName": "SVRT00007DD2",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "DHCP",
+    "serverName": "WKST00007E26",
+    "ServerType": "ADC_Client",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "DHCP",
+    "serverName": "WKST00007E28",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.169",
+    "serverName": "UWKT00007E7B",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.170",
+    "serverName": "UWKT00007E7C",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "DHCP",
+    "serverName": "UWKT00007E89",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "DHCP",
+    "serverName": "WKST00007E27",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.142",
+    "serverName": "UWKT00007DED",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.242.61.45",
+    "serverName": "UWKT00007E29",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.242.61.47",
+    "serverName": "UWKT00007E6B",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.141",
+    "serverName": "UWKT00007DF2",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.167",
+    "serverName": "UWKT00007DEA",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.161",
+    "serverName": "UWKT00007DE9",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.168",
+    "serverName": "UWKT00007DEE",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.162",
+    "serverName": "UWKT00007DEF",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAEJS",
+    "ip": "10.244.216.166",
+    "serverName": "UWKT00007DF1",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Caesar",
+    "ip": "10.245.212.124",
+    "serverName": "SVRT00002A78",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Caesar",
+    "ip": "10.245.212.122",
+    "serverName": "SVRT00002A76",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Caesar",
+    "ip": "10.245.212.123",
+    "serverName": "SVRT00002A77",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Caesar",
+    "ip": "DHCP",
+    "serverName": "wkst00002b15",
+    "ServerType": "UDCTharn1",
+    "serverVersion": "Win7"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.74",
+    "serverName": "SVRT00006643",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.58",
+    "serverName": "svrt0000669d",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.57",
+    "serverName": "svrt000066a2",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.72",
+    "serverName": "SVRT00006600",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.73",
+    "serverName": "SVRT00006601",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "DHCP",
+    "serverName": "wkst00006653",
+    "ServerType": "ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "DHCP",
+    "serverName": "wkst00006655",
+    "ServerType": "E2DC_ADC_Sup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.143",
+    "serverName": "UWKT000065ff",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.99",
+    "serverName": "UWKT000065fe",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "DHCP",
+    "serverName": "UWKT00006644",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "DHCP",
+    "serverName": "wkst00006654",
+    "ServerType": "IDC_ADC_Client",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.77",
+    "serverName": "UWKT00006604",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.75",
+    "serverName": "UWKT00006602",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "10.242.60.251",
+    "serverName": "UWKT0000672E",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.76",
+    "serverName": "UWKT00006603",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.82",
+    "serverName": "UWKT000065fc",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.78",
+    "serverName": "UWKT00006605",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.83",
+    "serverName": "UWKT000065fd",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "10.244.222.203",
+    "serverName": "UWKT0000761E",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "10.245.210.164",
+    "serverName": "UWKT000072BC",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "10.245.210.163",
+    "serverName": "UWKT000072BD",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.79",
+    "serverName": "UWKT000065f9",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.80",
+    "serverName": "UWKT000065fa",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "153.2.253.81",
+    "serverName": "UWKT000065fb",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAONA",
+    "ip": "10.242.60.252",
+    "serverName": "UWKT0000672F",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.93",
+    "serverName": "SVRT00007EC5",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.89",
+    "serverName": "SVRT00007E4A",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.88",
+    "serverName": "SVRT00007EC4",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.105",
+    "serverName": "SVRT00007E70",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.106",
+    "serverName": "SVRT00007E71",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00007F57",
+    "ServerType": "ADC_Client",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00007F5F",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.212.225",
+    "serverName": "UWKT00007E79",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.212.227",
+    "serverName": "UWKT00007E7A",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "DHCP",
+    "serverName": "UWKT00007E8E",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00007F5E",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.124",
+    "serverName": "UWKT00007E74",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.242.63.91",
+    "serverName": "UWKT00007F7A",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.242.63.90",
+    "serverName": "UWKT00007F62",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.121",
+    "serverName": "UWKT00007E73",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.212.223",
+    "serverName": "UWKT00007E78",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.127",
+    "serverName": "UWKT00007E75",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.147",
+    "serverName": "UWKT00007EE9",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.130",
+    "serverName": "UWKT00007E76",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CARMD",
+    "ip": "10.244.213.132",
+    "serverName": "UWKT00007E77",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "10.242.61.37",
+    "serverName": "SVRT0000643B",
+    "ServerType": "LOE-MR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "10.242.61.35",
+    "serverName": "SVRT00006439",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "10.242.61.38",
+    "serverName": "SVRT00006450",
+    "ServerType": "LOE-PS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "DHCP",
+    "serverName": "WKST000064F7",
+    "ServerType": "DCI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "DHCP",
+    "serverName": "WKST00007806",
+    "ServerType": "DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "DHCP",
+    "serverName": "WKST000072BB",
+    "ServerType": "DPS (64Bit) Trainer",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "DHCP",
+    "serverName": "WKST000064C6",
+    "ServerType": "DPS-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "DHCP",
+    "serverName": "WKST000073A7",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "DHCP",
+    "serverName": "WKST00008463",
+    "ServerType": "SPC-DMS 64 Bit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CAROC",
+    "ip": "DHCP",
+    "serverName": "WKST000064C5",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.241.105.67",
+    "serverName": "CODENTSV0003",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.241.105.65",
+    "serverName": "CODENTSV0001",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.241.105.68",
+    "serverName": "CODENTSV0004",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST00007592",
+    "ServerType": "DCI 4 - 64 BIT",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST0000768A",
+    "ServerType": "DCI-1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.241.105.84",
+    "serverName": "WKST000053D8",
+    "ServerType": "DCI-2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST0000730B",
+    "ServerType": "DCS/DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.245.211.161",
+    "serverName": "WKST00007221",
+    "ServerType": "DIR/DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST00006829",
+    "ServerType": "DMS2-DPS2 x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.241.105.90",
+    "serverName": "WKST00004506",
+    "ServerType": "DPS &amp; DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST0000606C",
+    "ServerType": "DPS (64-Bit)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.245.219.29",
+    "serverName": "WKST000086F2",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.245.222.19",
+    "serverName": "WKST000086F3",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST000054CD",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "UWKT00007218",
+    "ServerType": "SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST0000684F",
+    "ServerType": "SPC-DMS 64 Bit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "UWKT0000730C",
+    "ServerType": "UDC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "10.241.105.78",
+    "serverName": "WKST00002494",
+    "ServerType": "UDC3-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CODEN",
+    "ip": "DHCP",
+    "serverName": "WKST00006827",
+    "ServerType": "UDC4-DMS4 x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Coral",
+    "ip": "10.242.63.129",
+    "serverName": "SVRT00006F80",
+    "ServerType": "SiteNode",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Coral",
+    "ip": "10.242.63.127",
+    "serverName": "SVRT00006E28",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "Coral",
+    "ip": "10.242.63.128",
+    "serverName": "SVRT00006E2A",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "Coral",
+    "ip": "Not Available",
+    "serverName": "UWKT000056DE",
+    "ServerType": "Test Harness",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "Coral",
+    "ip": "Not Available",
+    "serverName": "UWKT00005784",
+    "ServerType": "Test Harness",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "10.241.105.34",
+    "serverName": "SVRT0000400E",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "10.241.105.33",
+    "serverName": "SVRT0000400D",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "10.241.105.35",
+    "serverName": "SVRT0000400F",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00007F22",
+    "ServerType": "BASEx64 DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00007F23",
+    "ServerType": "BASEx64 DRV",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "POST00007F20",
+    "ServerType": "BASEx64 SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00007F21",
+    "ServerType": "BASEx64 UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "UWKT00007D2E",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST0000624F",
+    "ServerType": "DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00005060",
+    "ServerType": "DMS/DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00007B21",
+    "ServerType": "DMS/DPS2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST000074E5",
+    "ServerType": "DMS_DPS_TRAINER (DMT Use)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00005248",
+    "ServerType": "DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00006489",
+    "ServerType": "DPS (64-Bit)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "UWKT00006A73",
+    "ServerType": "DPSDMS64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00006A72",
+    "ServerType": "DRV x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST0000624E",
+    "ServerType": "DRV-1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST0000409D",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00008049",
+    "ServerType": "ORION LAPTOP #1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00005063",
+    "ServerType": "ORION LAPTOP #2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST0000409C",
+    "ServerType": "SPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST000077B2",
+    "ServerType": "SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00006A6E",
+    "ServerType": "SPC-DMS 64 Bit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST000077E4",
+    "ServerType": "UDC 01",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00006A71",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST000072E4",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST000050F8",
+    "ServerType": "UDC3-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "CTDAN",
+    "ip": "DHCP",
+    "serverName": "WKST00006A70",
+    "ServerType": "UDC-DMS x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEBLN",
+    "ip": "10.245.211.237",
+    "serverName": "SVRT00006D94",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "DEBLN",
+    "ip": "153.2.252.78",
+    "serverName": "UWKT000057B7",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEBLN",
+    "ip": "153.2.252.77",
+    "serverName": "UWKT000057B6",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEBLN",
+    "ip": "DHCP",
+    "serverName": "UWKT00007396",
+    "ServerType": "UDC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEBLN",
+    "ip": "DHCP",
+    "serverName": "UWKT000057BD",
+    "ServerType": "UDC1_DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DECGN",
+    "ip": "153.2.254.15",
+    "serverName": "SVRT00006EEE",
+    "ServerType": "GSS Server",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "DECGN",
+    "ip": "153.2.254.14",
+    "serverName": "SVRT00006EED",
+    "ServerType": "GSS Server",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "DECGN",
+    "ip": "153.2.254.13",
+    "serverName": "SVRT00006D81",
+    "ServerType": "SiteNode",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.245.209.210",
+    "serverName": "SVRT00006C9A",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.241.106.137",
+    "serverName": "UWKT000058AC",
+    "ServerType": "DCS/DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.245.209.96",
+    "serverName": "UWKT00006DB1",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.245.209.239",
+    "serverName": "UWKT00006DB5",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.245.208.201",
+    "serverName": "UWKT00008428",
+    "ServerType": "Mainedit (x64)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.245.209.111",
+    "serverName": "UWKT00008427",
+    "ServerType": "MFC (x64)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.245.208.220",
+    "serverName": "UWKT0000826C",
+    "ServerType": "Sort PC 1 (x64)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "10.245.209.112",
+    "serverName": "UWKT00008277",
+    "ServerType": "Sort PC 2 (x64)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "DHCP",
+    "serverName": "WKST00006815",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEDUS",
+    "ip": "DHCP",
+    "serverName": "WKST00006814",
+    "ServerType": "UDC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEESH",
+    "ip": "10.241.82.46",
+    "serverName": "SVRT00008149",
+    "ServerType": "OPS",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "DEESH",
+    "ip": "10.241.104.158",
+    "serverName": "UWKT0000815D",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEESH",
+    "ip": "10.245.208.210",
+    "serverName": "UWKT00008158",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEESH",
+    "ip": "10.241.104.155",
+    "serverName": "UWKT0000815C",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEESH",
+    "ip": "10.245.208.209",
+    "serverName": "UWKT00008157",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEESH",
+    "ip": "DHCP",
+    "serverName": "WKST0000833A",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEMUC",
+    "ip": "153.2.254.16",
+    "serverName": "SVRT00006D25",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "DEMUC",
+    "ip": "DHCP",
+    "serverName": "UWKT00008449",
+    "ServerType": "BASE OS x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEMUC",
+    "ip": "DHCP",
+    "serverName": "WKST00008502",
+    "ServerType": "BASE OS x64  Win10",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "DEMUC",
+    "ip": "DHCP",
+    "serverName": "UWKT00007CB9",
+    "ServerType": "Discovery",
+    "serverVersion": "Windows 10 X64"
+  },
+  {
+    "Mnemonic": "DEMUC",
+    "ip": "DHCP",
+    "serverName": "UWKT00007CBB",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "DEMUC",
+    "ip": "DHCP",
+    "serverName": "UWKT00006DA0",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DEMUC",
+    "ip": "DHCP",
+    "serverName": "UWKT00006DA2",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.244.218.170",
+    "serverName": "SVRT0000402C",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.244.218.169",
+    "serverName": "SVRT0000402B",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.244.222.160",
+    "serverName": "SVRT0000402D",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.242.60.59",
+    "serverName": "UWKT0000404F",
+    "ServerType": "DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.242.60.58",
+    "serverName": "UWKT00004017",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.242.60.52",
+    "serverName": "UWKT00004015",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.242.60.53",
+    "serverName": "UWKT00004016",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Diamond",
+    "ip": "10.242.60.60",
+    "serverName": "WKST00004170",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "10.245.209.227",
+    "serverName": "SVRT00002BAE",
+    "ServerType": "DWSSVR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "10.245.222.139",
+    "serverName": "SVRT000073E7",
+    "ServerType": "DWSSVR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "10.244.218.202",
+    "serverName": "SVRT0000433B",
+    "ServerType": "DWSSVR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "SVRT0000785F",
+    "ServerType": "DWSSVR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "10.244.219.92",
+    "serverName": "SVRT0000456C",
+    "ServerType": "Failover SQL server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "10.245.209.229",
+    "serverName": "SVRT0000311B",
+    "ServerType": "OPSSVR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "10.244.218.102",
+    "serverName": "SVRT000034DA",
+    "ServerType": "OPSSVR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00008100",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT000038E5",
+    "ServerType": "DWS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00005A20",
+    "ServerType": "DWS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00005C1B",
+    "ServerType": "DWS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT000066DA",
+    "ServerType": "DWS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00006729",
+    "ServerType": "DWS",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT0000672A",
+    "ServerType": "DWS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00006E0C",
+    "ServerType": "DWS - 7012",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00006E21",
+    "ServerType": "DWS - 7012",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00006F8F",
+    "ServerType": "DWS - 7012",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT00007205",
+    "ServerType": "DWS - 7012",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "DWS - KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT000072EF",
+    "ServerType": "DWS - 7012",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ECSS",
+    "ip": "10.244.219.80",
+    "serverName": "SVRT00004503",
+    "ServerType": "Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "ESMAI",
+    "ip": "10.245.210.73",
+    "serverName": "SVRT00006F49",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ESMAI",
+    "ip": "10.245.210.196",
+    "serverName": "UWKT00006FDB",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ESMAI",
+    "ip": "10.245.210.201",
+    "serverName": "UWKT00006FDA",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ESMAI",
+    "ip": "DHCP",
+    "serverName": "wkst00006f65",
+    "ServerType": "UDC DCS x32",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.156",
+    "serverName": "SVRT00006748",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.195",
+    "serverName": "SVRT0000696C",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.157",
+    "serverName": "SVRT0000675B",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.158",
+    "serverName": "SVRT0000675C",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "DHCP",
+    "serverName": "WKST0000674D",
+    "ServerType": "ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "DHCP",
+    "serverName": "WKST00006750",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "10.242.61.57",
+    "serverName": "UWKT00006753",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "10.242.61.58",
+    "serverName": "UWKT00006754",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "DHCP",
+    "serverName": "UWKT00006746",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "DHCP",
+    "serverName": "WKST0000674E",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.172",
+    "serverName": "UWKT0000673F",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "10.242.61.55",
+    "serverName": "UWKT00006778",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "10.242.61.56",
+    "serverName": "UWKT00006779",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.159",
+    "serverName": "UWKT00006747",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.179",
+    "serverName": "UWKT00006744",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.173",
+    "serverName": "UWKT00006740",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.186",
+    "serverName": "UWKT00006745",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.174",
+    "serverName": "UWKT00006741",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLAMI",
+    "ip": "153.2.253.178",
+    "serverName": "UWKT00006742",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "10.245.215.197",
+    "serverName": "SVRT00004956",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "10.245.215.120",
+    "serverName": "SVRT00004940",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "10.245.215.219",
+    "serverName": "SVRT00004953",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "DHCP",
+    "serverName": "WKST00005420",
+    "ServerType": "DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "DHCP",
+    "serverName": "uwkt00008125",
+    "ServerType": "GSSD / MainEdit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "10.242.60.178",
+    "serverName": "UWKT0000823A",
+    "ServerType": "Smart Scan PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "10.242.60.179",
+    "serverName": "UWKT0000823B",
+    "ServerType": "Smart Scan PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLFTM",
+    "ip": "DHCP",
+    "serverName": "WKST000083B2",
+    "ServerType": "SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "10.242.61.67",
+    "serverName": "FLJACTSV0069",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "10.242.61.65",
+    "serverName": "FLJACTSV0067",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "10.242.61.68",
+    "serverName": "SVRT0000282F",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "UWKT00007266",
+    "ServerType": "Backup SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "WKST00006C72",
+    "ServerType": "DCI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "153.2.255.128",
+    "serverName": "WKST00008156",
+    "ServerType": "DIR, DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "WKST000070B3",
+    "ServerType": "DMS2-DPS2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "WKST00007F3D",
+    "ServerType": "DMS2-DPS2 x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "WKST00007F3E",
+    "ServerType": "DMS3-DPS3x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "UWKT00007392",
+    "ServerType": "DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "UWKT00007A7A",
+    "ServerType": "DPSDMS64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "UWKT00004551",
+    "ServerType": "GSSD-2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "UWKT0000741F",
+    "ServerType": "GSS-DPS-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "WKST000083FA",
+    "ServerType": "SPC\\UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLJAC",
+    "ip": "DHCP",
+    "serverName": "WKST00008017",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.97",
+    "serverName": "SVRT0000628E",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.96",
+    "serverName": "SVRT0000627C",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.95",
+    "serverName": "SVRT00005ED3",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.98",
+    "serverName": "SVRT0000628C",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.99",
+    "serverName": "SVRT0000628D",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "DHCP",
+    "serverName": "WKST000062DC",
+    "ServerType": "ADC SUP - GSS/DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "DHCP",
+    "serverName": "WKST000062DD",
+    "ServerType": "ADC-IDC-SPC/UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.245.211.159",
+    "serverName": "WKST0000721F",
+    "ServerType": "DIR, DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "DHCP",
+    "serverName": "WKST0000824E",
+    "ServerType": "DPSDMS64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "DHCP",
+    "serverName": "WKST000062DE",
+    "ServerType": "E2DC-ADC-DPS/DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.222",
+    "serverName": "UWKT000062B8",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.223",
+    "serverName": "UWKT000062B6",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "DHCP",
+    "serverName": "UWKT0000628F",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.112",
+    "serverName": "UWKT000062B9",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.100",
+    "serverName": "UWKT000062B3",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.111",
+    "serverName": "UWKT000062BB",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.118",
+    "serverName": "UWKT000062BC",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.113",
+    "serverName": "UWKT000062EE",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.224",
+    "serverName": "UWKT000062BA",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.114",
+    "serverName": "UWKT000062B7",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.115",
+    "serverName": "UWKT000062B2",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FLORL",
+    "ip": "10.244.215.116",
+    "serverName": "UWKT000062B5",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.71",
+    "serverName": "SVRT00006B01",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.182",
+    "serverName": "SVRT00006AEE",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.191",
+    "serverName": "SVRT00006AEF",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.192",
+    "serverName": "SVRT00006AF0",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "Not Available",
+    "serverName": "WKST00006AED",
+    "ServerType": "DCS",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "DHCP",
+    "serverName": "WKST00006AEC",
+    "ServerType": "E2DC_ADC_Sup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.203",
+    "serverName": "UWKT00006AE2",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.204",
+    "serverName": "UWKT00006AE3",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "DHCP",
+    "serverName": "UWKT00006AE8",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.210.62",
+    "serverName": "UWKT00006AE4",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.199",
+    "serverName": "UWKT00006B07",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.194",
+    "serverName": "UWKT00006AE5",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.200",
+    "serverName": "UWKT00006AEA",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.196",
+    "serverName": "UWKT00006AE7",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.202",
+    "serverName": "UWKT00006AEB",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.197",
+    "serverName": "UWKT00006AE0",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRCHI",
+    "ip": "10.245.209.198",
+    "serverName": "UWKT00006AE1",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRNIC",
+    "ip": "153.2.253.68",
+    "serverName": "SVRT00006834",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "FRSON",
+    "ip": "10.245.210.166",
+    "serverName": "SVRT00007F1F",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "FRSON",
+    "ip": "10.245.210.197",
+    "serverName": "UWKT00006FDD",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRSON",
+    "ip": "10.245.211.36",
+    "serverName": "UWKT00006FDF",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "FRSON",
+    "ip": "DHCP",
+    "serverName": "WKST00006F66",
+    "ServerType": "UDC DCS x32",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "10.241.107.195",
+    "serverName": "GAPLETSV000B",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "10.241.107.193",
+    "serverName": "GAPLETSV0009",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "10.241.107.196",
+    "serverName": "GAPLETSV000C",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "DHCP",
+    "serverName": "WKST0000713D",
+    "ServerType": "DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "DHCP",
+    "serverName": "WKST000072DB",
+    "ServerType": "DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "DHCP",
+    "serverName": "WKST0000564E",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "10.241.107.197",
+    "serverName": "WKST0000564F",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "10.241.107.201",
+    "serverName": "WKST00004638",
+    "ServerType": "UDC01-DMS - Snap",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GAPLE",
+    "ip": "10.241.107.202",
+    "serverName": "WKST00004548",
+    "ServerType": "UDC02-DMS - Snap",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Garnet",
+    "ip": "DHCP",
+    "serverName": "WKST00007DBE",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "Garnet",
+    "ip": "DHCP",
+    "serverName": "WKST00007DBF",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "Garnet",
+    "ip": "10.242.60.152",
+    "serverName": "UWKT0000126A",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Garnet",
+    "ip": "10.242.60.163",
+    "serverName": "UWKT0000126B",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.203",
+    "serverName": "SVRT00006971",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.204",
+    "serverName": "SVRT000068B5",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.209.5",
+    "serverName": "SVRT0000697D",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "Not Available",
+    "serverName": "UWKT000068FF",
+    "ServerType": "DCS",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "Not Available",
+    "serverName": "UWKT000068FC",
+    "ServerType": "E2DC_ADC WKS",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.209.0",
+    "serverName": "UWKT00006984",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.209.4",
+    "serverName": "UWKT0000697B",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.209.14",
+    "serverName": "UWKT000068B9",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.206",
+    "serverName": "UWKT00006975",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.242",
+    "serverName": "UWKT00006974",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.208",
+    "serverName": "UWKT00006976",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.244",
+    "serverName": "UWKT00006973",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.211.55",
+    "serverName": "UWKT00006978",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.245",
+    "serverName": "UWKT000068BD",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.218",
+    "serverName": "UWKT0000697C",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBEMR",
+    "ip": "10.245.208.222",
+    "serverName": "UWKT00006977",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBGAW",
+    "ip": "10.244.219.95",
+    "serverName": "SVRT00004363",
+    "ServerType": "VILOE",
+    "serverVersion": "SERVER 2012"
+  },
+  {
+    "Mnemonic": "GBGAW",
+    "ip": "10.244.215.53",
+    "serverName": "UWKT00004543",
+    "ServerType": "GSSD",
+    "serverVersion": "Windows 7X86"
+  },
+  {
+    "Mnemonic": "GBGAW",
+    "ip": "10.244.211.9",
+    "serverName": "UWKT0000456B",
+    "ServerType": "MFC",
+    "serverVersion": "Windows 7X86"
+  },
+  {
+    "Mnemonic": "GBGAW",
+    "ip": "DHCP",
+    "serverName": "UWKT00004542",
+    "ServerType": "Sort PC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBGAW",
+    "ip": "10.244.210.92",
+    "serverName": "UWKT00004544",
+    "ServerType": "Sort PC",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "GBSTA",
+    "ip": "153.2.253.235",
+    "serverName": "SVRT000069B0",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "GBSTA",
+    "ip": "DHCP",
+    "serverName": "UWKT000069B1",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GBSTA",
+    "ip": "DHCP",
+    "serverName": "UWKT000069B2",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GLS",
+    "ip": "10.244.215.221",
+    "serverName": "SVRT00006224",
+    "ServerType": "GLS  - System",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GLS",
+    "ip": "10.244.208.53",
+    "serverName": "SVRT00005ECE",
+    "ServerType": "Integration Staging Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GLS",
+    "ip": "10.244.215.219",
+    "serverName": "SVRT00006222",
+    "ServerType": "System Integaration",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GLS",
+    "ip": "10.244.215.220",
+    "serverName": "SVRT00006223",
+    "ServerType": "System Integaration",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "GRKOP",
+    "ip": "10.245.208.173, DHCP",
+    "serverName": "GRKOPSVR0000",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "GRKOP",
+    "ip": "DHCP",
+    "serverName": "UWKT000067CB",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GRKOP",
+    "ip": "DHCP",
+    "serverName": "UWKT000067CC",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7"
+  },
+  {
+    "Mnemonic": "GRKOP",
+    "ip": "DHCP",
+    "serverName": "WKST00005E93",
+    "ServerType": "UDC1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GSS FTP",
+    "ip": "Not Available",
+    "serverName": "SVRT00007448",
+    "ServerType": "GSS FTP Server",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "GTS Test Automation",
+    "ip": "DHCP",
+    "serverName": "UWKT000058B2",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GTS Test Automation",
+    "ip": "DHCP",
+    "serverName": "UWKT000058B4",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GTS Test Automation",
+    "ip": "DHCP",
+    "serverName": "UWKT000058B5",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GTS Test Automation",
+    "ip": "DHCP",
+    "serverName": "UWKT00005D73",
+    "ServerType": "Discovery",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "GTS Test Automation",
+    "ip": "DHCP",
+    "serverName": "UWKT000060EC",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GTS Test Automation",
+    "ip": "DHCP",
+    "serverName": "UWKT00006764",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "GTS Test Automation",
+    "ip": "DHCP",
+    "serverName": "UWKT0000679B",
+    "ServerType": "Discovery",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Himalaya",
+    "ip": "10.241.105.98",
+    "serverName": "GAWARTSV0003",
+    "ServerType": "DEPOT WIPS Server",
+    "serverVersion": "W2K3"
+  },
+  {
+    "Mnemonic": "Himalaya",
+    "ip": "DHCP",
+    "serverName": "WKST00005E24",
+    "ServerType": "DEPOT Workstation",
+    "serverVersion": "Win7"
+  },
+  {
+    "Mnemonic": "HKCLK",
+    "ip": "DHCP",
+    "serverName": "SVRT00005DDC",
+    "ServerType": "SiteNode",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "HKCLK",
+    "ip": "10.242.60.54",
+    "serverName": "UWKT00004CF8",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "HKCLK",
+    "ip": "10.242.60.55",
+    "serverName": "UWKT00004CFC",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.247",
+    "serverName": "SVRT00003501",
+    "ServerType": "LOEAS",
+    "serverVersion": "Server 2003"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.246",
+    "serverName": "SVRT00003502",
+    "ServerType": "LOEIS",
+    "serverVersion": "Server 2003"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.248",
+    "serverName": "SVRT00003503",
+    "ServerType": "LOEMR",
+    "serverVersion": "Server 2003"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.251",
+    "serverName": "UWKT00003563",
+    "ServerType": "SORTMGR / NGSS",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.252",
+    "serverName": "UWKT00003564",
+    "ServerType": "BEPC",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.253",
+    "serverName": "UWKT00003566",
+    "ServerType": "BEPC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.254",
+    "serverName": "UWKT00003567",
+    "ServerType": "Not Available",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.255",
+    "serverName": "UWKT00003568",
+    "ServerType": "Not Available",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.218.0",
+    "serverName": "UWKT00003569",
+    "ServerType": "Not Available",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.249",
+    "serverName": "UWKT00003561",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "IADES",
+    "ip": "10.244.217.250",
+    "serverName": "UWKT00003562",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "10.245.220.73",
+    "serverName": "SVRT00005121",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "10.245.218.69",
+    "serverName": "SVRT00005129",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "10.245.210.150",
+    "serverName": "SVRT00005128",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "DHCP",
+    "serverName": "UWKT0000519B",
+    "ServerType": "ADC_Client",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "DHCP",
+    "serverName": "WKST00006BCC",
+    "ServerType": "ADC_Sup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "DHCP",
+    "serverName": "UWKT0000519A",
+    "ServerType": "DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "DHCP",
+    "serverName": "UWKT00005199",
+    "ServerType": "DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "DHCP",
+    "serverName": "WKST000051BE",
+    "ServerType": "GSS-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "10.242.63.102",
+    "serverName": "UWKT00007FDE",
+    "ServerType": "MFC x64 Win 10",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "10.242.61.188",
+    "serverName": "UWKT0000332C",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "10.242.61.189",
+    "serverName": "UWKT0000332D",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILADD",
+    "ip": "DHCP",
+    "serverName": "WKST000051B2",
+    "ServerType": "SPC_ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ILHOD",
+    "ip": "10.245.217.226",
+    "serverName": "UWKT00002CCE",
+    "ServerType": "ASX",
+    "serverVersion": "Windows  7  X64"
+  },
+  {
+    "Mnemonic": "ILHOD",
+    "ip": "10.245.222.177",
+    "serverName": "UWKT00002CCF",
+    "ServerType": "ASX",
+    "serverVersion": "Windows  7  X64"
+  },
+  {
+    "Mnemonic": "ILHOD",
+    "ip": "10.245.223.140",
+    "serverName": "UWKT00002CD1",
+    "ServerType": "ASX",
+    "serverVersion": "Windows  7  X64"
+  },
+  {
+    "Mnemonic": "ITBLG",
+    "ip": "10.245.220.154",
+    "serverName": "SVRT00007F1E",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ITBLG",
+    "ip": "DHCP",
+    "serverName": "UWKT00007B4D",
+    "ServerType": "BASEOS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITBLG",
+    "ip": "DHCP",
+    "serverName": "WKST00005F1B",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITBLG",
+    "ip": "DHCP",
+    "serverName": "WKST00005EC8",
+    "ServerType": "UDC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITBLG",
+    "ip": "DHCP",
+    "serverName": "WKST000074D7",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITLUR",
+    "ip": "10.245.209.206",
+    "serverName": "SVRT00006C99",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ITLUR",
+    "ip": "DHCP",
+    "serverName": "UWKT00004FAC",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITLUR",
+    "ip": "DHCP",
+    "serverName": "UWKT000076D3",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITLUR",
+    "ip": "DHCP",
+    "serverName": "UWKT00004F8C",
+    "ServerType": "UDC 01",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITLUR",
+    "ip": "DHCP",
+    "serverName": "UWKT00004FAA",
+    "ServerType": "UDC-02",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITLUR",
+    "ip": "DHCP",
+    "serverName": "UWKT00004FEC",
+    "ServerType": "UDC03-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITROM",
+    "ip": "10.245.214.109",
+    "serverName": "SVRT00007879",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ITROM",
+    "ip": "DHCP",
+    "serverName": "UWKT00004C71",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITROM",
+    "ip": "DHCP",
+    "serverName": "WKST000063DF",
+    "ServerType": "UDC BASEOS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITROM",
+    "ip": "DHCP",
+    "serverName": "WKST000063E0",
+    "ServerType": "UDC BASEOS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITROM",
+    "ip": "DHCP",
+    "serverName": "WKST000063DE",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITTOR",
+    "ip": "10.245.210.171",
+    "serverName": "SVRT0000787A",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ITTOR",
+    "ip": "10.245.213.53",
+    "serverName": "UWKT000074FB",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITTOR",
+    "ip": "10.245.217.114",
+    "serverName": "UWKT000074E8",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITTOR",
+    "ip": "DHCP",
+    "serverName": "WKST000074D6",
+    "ServerType": "UDC - 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ITTOR",
+    "ip": "DHCP",
+    "serverName": "UWKT000074BE",
+    "ServerType": "UDC - 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Jump Drives - CDE",
+    "ip": "Not Available",
+    "serverName": "SVRT00004DDF",
+    "ServerType": "Jump Drives - CDE",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "Jump Drives - CDE",
+    "ip": "Not Available",
+    "serverName": "WKST00007EBD",
+    "ServerType": "Jump Drives - CDE",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "Jump Drives - CDE",
+    "ip": "Not Available",
+    "serverName": "WKST000043B9",
+    "ServerType": "Jump Drives - CDE",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "Jump Drives - CDE",
+    "ip": "Not Available",
+    "serverName": "SVRT00008541",
+    "ServerType": "Jump Drives - CDE",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "10.245.210.154",
+    "serverName": "SVRT000052DC",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "10.245.210.155",
+    "serverName": "SVRT0000522D",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "10.245.210.156",
+    "serverName": "SVRT0000521F",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00006A5D",
+    "ServerType": "DCI - 64Bit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST000072D7",
+    "ServerType": "DMS_DPS_TRAINER (DMT Use)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST0000467F",
+    "ServerType": "DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00006486",
+    "ServerType": "DPS (64-Bit)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00007125",
+    "ServerType": "DPS-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "UWKT00006A6F",
+    "ServerType": "DPSDMS64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00006A8B",
+    "ServerType": "DRV x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00006E87",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00007134",
+    "ServerType": "SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00006A75",
+    "ServerType": "SPC-DMS 64 Bit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00006A8A",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00007B53",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00007713",
+    "ServerType": "UDC1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Kiwi",
+    "ip": "DHCP",
+    "serverName": "WKST00006A77",
+    "ServerType": "UDC-DMS x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.244.213.241",
+    "serverName": "SVRT0000767A",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.242.61.40",
+    "serverName": "SVRT00007663",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.242.61.48",
+    "serverName": "SVRT00007667",
+    "ServerType": "LOEOP (IS/AS)",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.242.61.41",
+    "serverName": "SVRT00007664",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST000076A5",
+    "ServerType": "DCI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST0000766B",
+    "ServerType": "DMS/DPS2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST0000766D",
+    "ServerType": "DMS/DPS3",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT000086EA",
+    "ServerType": "DPS (64Bit) Trainer",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST00007670",
+    "ServerType": "DPS/DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST0000766E",
+    "ServerType": "GSS - DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "UWKT000076A3",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.241.104.252",
+    "serverName": "UWKT000076AB",
+    "ServerType": "MFC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.241.104.253",
+    "serverName": "UWKT000076AC",
+    "ServerType": "NGSS Main Edit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.241.104.248",
+    "serverName": "UWKT000076A6",
+    "ServerType": "Smart Scan PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.241.104.249",
+    "serverName": "UWKT000076A7",
+    "ServerType": "Smart Scan PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.241.104.250",
+    "serverName": "UWKT000076CC",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "10.241.104.251",
+    "serverName": "UWKT000076AA",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST0000766F",
+    "ServerType": "SPC-UDC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST00007671",
+    "ServerType": "Test Harness #1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST00007676",
+    "ServerType": "Test Harness #2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "KYASH",
+    "ip": "DHCP",
+    "serverName": "WKST00007668",
+    "ServerType": "UDC/DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Lab Support",
+    "ip": "10.242.60.136",
+    "serverName": "SVRT00003FE6",
+    "ServerType": "Archive 1  Storage",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Lab Support",
+    "ip": "10.242.60.118, DHCP",
+    "serverName": "SVRT00004383",
+    "ServerType": "Archive 2  Storage",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Lab Support",
+    "ip": "10.242.60.187",
+    "serverName": "SVRT00004B2A",
+    "ServerType": "Archive 3  Storage",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Lab Support 2",
+    "ip": "10.244.222.132",
+    "serverName": "SVRT00004668",
+    "ServerType": "Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "LL Bean",
+    "ip": "10.242.60.181",
+    "serverName": "UWKT000047A6",
+    "ServerType": "Bagging",
+    "serverVersion": "Windows 7 x86"
+  },
+  {
+    "Mnemonic": "LL Bean",
+    "ip": "10.242.60.185",
+    "serverName": "UWKT000047EF",
+    "ServerType": "MainEdit &amp; SIMM Wks",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "LL Bean",
+    "ip": "10.242.60.184",
+    "serverName": "UWKT000047EE",
+    "ServerType": "MainEdit &amp; SIMM Wks",
+    "serverVersion": "Windows 7 x86"
+  },
+  {
+    "Mnemonic": "LL Bean",
+    "ip": "10.242.60.182",
+    "serverName": "UWKT00004790",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "LL Bean",
+    "ip": "10.242.60.183",
+    "serverName": "UWKT00004791",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "LL Bean",
+    "ip": "10.242.60.186",
+    "serverName": "UWKT00004844",
+    "ServerType": "Spare",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Maroon",
+    "ip": "10.245.220.12",
+    "serverName": "SVRT0000506F",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Maroon",
+    "ip": "10.245.217.249",
+    "serverName": "SVRT00005074",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Maroon",
+    "ip": "10.245.217.31",
+    "serverName": "SVRT00005070",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Maroon",
+    "ip": "DHCP",
+    "serverName": "UWKT000050AE",
+    "ServerType": "DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Maroon",
+    "ip": "DHCP",
+    "serverName": "WKST000072D9",
+    "ServerType": "GSS - DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Maroon",
+    "ip": "10.241.107.101",
+    "serverName": "UWKT00005186",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Maroon",
+    "ip": "DHCP",
+    "serverName": "UWKT0000713E",
+    "ServerType": "UDC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.63.249",
+    "serverName": "svrt00007152",
+    "ServerType": "Admin 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.63.250",
+    "serverName": "svrt00007153",
+    "ServerType": "Admin 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.245.220.12",
+    "serverName": "svrt0000506f",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.245.217.249",
+    "serverName": "svrt00005074",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.245.217.31",
+    "serverName": "svrt00005070",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.61.181",
+    "serverName": "uwkt000053da",
+    "ServerType": "Cell Controller 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.61.182",
+    "serverName": "uwkt000053dc",
+    "ServerType": "Cell Controller 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.63.198",
+    "serverName": "uwkt00005b2b",
+    "ServerType": "Cell Controller 5",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.63.21",
+    "serverName": "uwkt00005b2c",
+    "ServerType": "Cell Controller 6",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.61.51",
+    "serverName": "uwkt000053dd",
+    "ServerType": "Export WKS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.61.185",
+    "serverName": "uwkt000053df",
+    "ServerType": "Export Wks 2 &amp; CC3",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.61.92",
+    "serverName": "uwkt00005518",
+    "ServerType": "Irreg Mgr",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.61.91",
+    "serverName": "uwkt000054dd",
+    "ServerType": "MainEdit &amp; SIMM Wks",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.60.84",
+    "serverName": "uwkt000053d9",
+    "ServerType": "MFC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.60.65",
+    "serverName": "uwkt000054c1",
+    "ServerType": "OPLD-DL Wks 1 with Service",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.60.83",
+    "serverName": "uwkt000054d5",
+    "ServerType": "OPLD-DL WKS 2 with Service",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.60.64",
+    "serverName": "uwkt000054c0",
+    "ServerType": "Outbound 1 &amp; CC4",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.61.184",
+    "serverName": "uwkt000054bf",
+    "ServerType": "PMG 1 WKS New Interface",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Matterhorn",
+    "ip": "10.242.60.63",
+    "serverName": "uwkt00006112",
+    "ServerType": "PMG 2 WKS Old Interface",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "10.241.105.163",
+    "serverName": "SVRT000041CD",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "10.241.105.161",
+    "serverName": "SVRT000041CC",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "10.241.105.164",
+    "serverName": "SVRT000041CE",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "DHCP",
+    "serverName": "WKST00004246",
+    "ServerType": "DCS-ODSE",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "10.245.211.160",
+    "serverName": "WKST00007220",
+    "ServerType": "DIR, DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "DHCP",
+    "serverName": "WKST000041EB",
+    "ServerType": "DMS/DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "DHCP",
+    "serverName": "WKST00007097",
+    "ServerType": "DPSDMS64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "DHCP",
+    "serverName": "WKST000077f7",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "DHCP",
+    "serverName": "WKST000041E9",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDFRE",
+    "ip": "DHCP",
+    "serverName": "UWKT00007213",
+    "ServerType": "UDC - 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "10.245.216.98",
+    "serverName": "SVRT000064BE",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "10.245.218.186",
+    "serverName": "SVRT000051BA",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "10.245.216.122",
+    "serverName": "SVRT00007B52",
+    "ServerType": "LOE-PS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST000071E8",
+    "ServerType": "Backup SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST0000817C",
+    "ServerType": "DCI - 64Bit",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST00007D9C",
+    "ServerType": "DCI-2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "UWKT00005D67",
+    "ServerType": "DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST00008172",
+    "ServerType": "DPS (64-Bit)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "UWKT00005D69",
+    "ServerType": "DPS-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST000051C6",
+    "ServerType": "GSS-DPS-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "UWKT00005D68",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "10.245.208.212",
+    "serverName": "UWKT00008379",
+    "ServerType": "Mainedit (x64)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "10.245.208.211",
+    "serverName": "UWKT00008374",
+    "ServerType": "MFC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "10.245.208.219",
+    "serverName": "UWKT00008180",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "10.245.208.213",
+    "serverName": "UWKT00008186",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST0000817B",
+    "ServerType": "SPC\\UDC x64",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST00006527",
+    "ServerType": "SPC-DMS 64 Bit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST00007421",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST000071E3",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MDSAL",
+    "ip": "DHCP",
+    "serverName": "WKST000051C7",
+    "ServerType": "UDC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MERCEDES - SBDT",
+    "ip": "10.244.210.21",
+    "serverName": "UWKT0000438A",
+    "ServerType": "S&amp;P Database",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.83",
+    "serverName": "svrt0000640d",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.82",
+    "serverName": "svrt000064cc",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.81",
+    "serverName": "svrt000063f6",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.89",
+    "serverName": "svrt00006410",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.87",
+    "serverName": "svrt0000640f",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "DHCP",
+    "serverName": "wkst0000646d",
+    "ServerType": "ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "DHCP",
+    "serverName": "wkst0000646b",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.130",
+    "serverName": "uwkt0000641b",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.131",
+    "serverName": "uwkt00006427",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "DHCP",
+    "serverName": "uwkt0000640e",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "DHCP",
+    "serverName": "wkst0000646c",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.96",
+    "serverName": "uwkt00006414",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.91",
+    "serverName": "uwkt00006429",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.92",
+    "serverName": "uwkt00006428",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.128",
+    "serverName": "uwkt00006419",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.97",
+    "serverName": "uwkt00006415",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.129",
+    "serverName": "uwkt0000641a",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.99",
+    "serverName": "uwkt00006416",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.102",
+    "serverName": "uwkt00006417",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIDTW",
+    "ip": "10.244.217.107",
+    "serverName": "uwkt00006418",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.107",
+    "serverName": "SVRT00006B0B",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.239",
+    "serverName": "SVRT00005132",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.237",
+    "serverName": "SVRT00005131",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.240",
+    "serverName": "SVRT00005133",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.118",
+    "serverName": "SVRT00006B11",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.129",
+    "serverName": "SVRT00006B12",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.242",
+    "serverName": "WKST00004A81",
+    "ServerType": "DPS-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.243",
+    "serverName": "WKST00004A7E",
+    "ServerType": "GSS2-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.246",
+    "serverName": "WKST00004A82",
+    "ServerType": "GSS-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "DHCP",
+    "serverName": "WKST00007DBC",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "DHCP",
+    "serverName": "UWKT00007FDD",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.108",
+    "serverName": "UWKT00006B13",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.242.61.49",
+    "serverName": "UWKT00007FD3",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.242.60.112",
+    "serverName": "UWKT00007FD1",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.133",
+    "serverName": "UWKT00006B2C",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.170",
+    "serverName": "UWKT00006B32",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.136",
+    "serverName": "UWKT00006B2E",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.171",
+    "serverName": "UWKT00006B2F",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.245.209.138",
+    "serverName": "UWKT00006B30",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.242.63.94",
+    "serverName": "UWKT00007FD7",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.241",
+    "serverName": "WKST00004A80",
+    "ServerType": "SPC_ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.245",
+    "serverName": "WKST00000658",
+    "ServerType": "UDC_ADC_Sup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MIGRN",
+    "ip": "10.241.104.244",
+    "serverName": "WKST00004A7F",
+    "ServerType": "UDCDMS_ADC_Client",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "10.245.210.153",
+    "serverName": "SVRT00006CEC",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "DHCP",
+    "serverName": "UWKT00005B99",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "DHCP",
+    "serverName": "UWKT00005B9A",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "DHCP",
+    "serverName": "UWKT00007DAF",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "10.242.60.201",
+    "serverName": "UWKT00001873",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "DHCP",
+    "serverName": "UWKT00003C51",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "DHCP",
+    "serverName": "UWKT00006C1C",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "MXGUA",
+    "ip": "DHCP",
+    "serverName": "UWKT00006C1D",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "MXMCT",
+    "ip": "10.245.210.139",
+    "serverName": "SVRT000074A1",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "MXMCT",
+    "ip": "153.2.252.75",
+    "serverName": "UWKT000057FC",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXMCT",
+    "ip": "153.2.252.76",
+    "serverName": "UWKT0000580C",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXMCT",
+    "ip": "DHCP",
+    "serverName": "UWKT000057BF",
+    "ServerType": "UDC1_DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "MXMCT",
+    "ip": "DHCP",
+    "serverName": "UWKT000057F8",
+    "ServerType": "UDC2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJ650",
+    "ip": "DHCP",
+    "serverName": "UWKT00007CF4",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJ650",
+    "ip": "DHCP",
+    "serverName": "UWKT00007CF5",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJ650",
+    "ip": "DHCP",
+    "serverName": "WKST00007D17",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJ650",
+    "ip": "DHCP",
+    "serverName": "WKST00007D33",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "SVRT000066FB",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.59",
+    "serverName": "SVRT000066BB",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.66",
+    "serverName": "SVRT000066BA",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.13",
+    "serverName": "SVRT00008531",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.60.250",
+    "serverName": "SVRT00008532",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST00006688",
+    "ServerType": "ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST00006CA7",
+    "ServerType": "DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST0000668A",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "UWKT0000818B",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "UWKT0000818A",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "UWKT0000825B",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST00006CA8",
+    "ServerType": "GSS-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "UWKT00007FDF",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.94",
+    "serverName": "UWKT00006696",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.95",
+    "serverName": "UWKT000066B8",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST00006CAA",
+    "ServerType": "GSSi1",
+    "serverVersion": "Windows 7 x64"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST00006CAB",
+    "ServerType": "GSSI2",
+    "serverVersion": "Windows 7 x64"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "UWKT00006706",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST00006689",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.73",
+    "serverName": "UWKT0000668E",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.63",
+    "serverName": "UWKT0000668B",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.83",
+    "serverName": "UWKT00006692",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.72",
+    "serverName": "UWKT0000668D",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.84",
+    "serverName": "UWKT000081D2",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.74",
+    "serverName": "UWKT0000668F",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.85",
+    "serverName": "UWKT00006695",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.75",
+    "serverName": "UWKT00006690",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "10.242.61.64",
+    "serverName": "UWKT00006691",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJEDI",
+    "ip": "DHCP",
+    "serverName": "WKST000078C8",
+    "ServerType": "SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "10.245.209.40",
+    "serverName": "SVRT00007779",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "10.245.215.203",
+    "serverName": "SVRT00004958",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "10.245.215.149",
+    "serverName": "SVRT00004945",
+    "ServerType": "OPSSVR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "DHCP",
+    "serverName": "WKST00007CC9",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "DHCP",
+    "serverName": "UWKT00008019",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "DHCP",
+    "serverName": "UWKT00007747",
+    "ServerType": "GSSD / MainEdit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "DHCP",
+    "serverName": "UWKT0000776A",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "10.242.60.99",
+    "serverName": "UWKT00006020",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJMEA",
+    "ip": "10.242.60.98",
+    "serverName": "UWKT00006021",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "10.244.217.245",
+    "serverName": "SVRT00003454",
+    "ServerType": "LOEAS",
+    "serverVersion": "Server 2008 R2"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "10.244.217.244",
+    "serverName": "SVRT00003453",
+    "ServerType": "LOEIS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "DHCP",
+    "serverName": "WKST000077D8",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "DHCP",
+    "serverName": "WKST000077D7",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "DHCP",
+    "serverName": "WKST000077D9",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "DHCP",
+    "serverName": "WKST000077DA",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "DHCP",
+    "serverName": "UWKT00003458",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "DHCP",
+    "serverName": "UWKT00007CC1",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "DHCP",
+    "serverName": "UWKT00007CC5",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "10.244.217.242",
+    "serverName": "UWKT0000346D",
+    "ServerType": "Sort PC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJPAR",
+    "ip": "10.244.217.243",
+    "serverName": "UWKT0000346E",
+    "ServerType": "Sort PC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.245.208.101",
+    "serverName": "SVRT00004F3B",
+    "ServerType": "HFCS Server (r07d32tsg1)",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.245.211.45",
+    "serverName": "SVRT0000585B",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.245.211.44",
+    "serverName": "SVRT00005861",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.245.211.46",
+    "serverName": "SVRT0000585C",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "WKST000058F7",
+    "ServerType": "DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "UWKT000058F8",
+    "ServerType": "DPS &amp; DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.244.212.176",
+    "serverName": "UWKT00007248",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.244.212.177",
+    "serverName": "UWKT00007249",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "UWKT00005963",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "UWKT00008053",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "WKST00008010",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "UWKT000056C1",
+    "ServerType": "HFCS GUI (r07d32tsg1)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.244.212.174",
+    "serverName": "UWKT00007246",
+    "ServerType": "Sort PC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "10.244.212.175",
+    "serverName": "UWKT00007247",
+    "ServerType": "Sort PC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "WKST000060FF",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NJSAD",
+    "ip": "DHCP",
+    "serverName": "WKST000077C5",
+    "ServerType": "UDC1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLAMS",
+    "ip": "10.245.210.152",
+    "serverName": "SVRT00006F89",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "NLAMS",
+    "ip": "10.245.210.198",
+    "serverName": "UWKT00006FDE",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLAMS",
+    "ip": "10.245.210.222",
+    "serverName": "UWKT00006FDC",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLAMS",
+    "ip": "DHCP",
+    "serverName": "WKST00006f67",
+    "ServerType": "UDC DCS x32",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "Not Available",
+    "serverName": "SVRT0000733D",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.28",
+    "serverName": "SVRT00007340",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.30",
+    "serverName": "SVRT00007342",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.214.230",
+    "serverName": "SVRT00007343",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "DHCP",
+    "serverName": "WKST0000732F",
+    "ServerType": "ADC/E2DC/IDC/UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.45",
+    "serverName": "UWKT0000734D",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.46",
+    "serverName": "UWKT00007357",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "DHCP",
+    "serverName": "UWKT00007341",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.35",
+    "serverName": "UWKT00007345",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.242.60.44",
+    "serverName": "UWKT00007330",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.242.61.30",
+    "serverName": "UWKT00007331",
+    "ServerType": "MFC 1 WKS  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.34",
+    "serverName": "UWKT00007344",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.214.45",
+    "serverName": "UWKT00007349",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.36",
+    "serverName": "UWKT00007346",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.43",
+    "serverName": "UWKT0000734A",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.213.37",
+    "serverName": "UWKT00007347",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NLEVN",
+    "ip": "10.244.214.31",
+    "serverName": "UWKT00007348",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.245.215.181",
+    "serverName": "SVRT000071DE",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.245.215.111",
+    "serverName": "SVRT0000493E",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.245.215.214",
+    "serverName": "SVRT00004952",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "DHCP",
+    "serverName": "UWKT00007DB0",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "DHCP",
+    "serverName": "WKST00007CC7",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.244.219.204",
+    "serverName": "WKST00004F40",
+    "ServerType": "DPS &amp; DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "DHCP",
+    "serverName": "UWKT00006FC8",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "DHCP",
+    "serverName": "UWKT0000748F",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "DHCP",
+    "serverName": "UWKT0000801E",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.242.60.218",
+    "serverName": "UWKT00006E01",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.242.60.217",
+    "serverName": "UWKT00006E04",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.244.214.4",
+    "serverName": "UWKT00007120",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.244.214.0",
+    "serverName": "UWKT00007121",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.244.214.25",
+    "serverName": "UWKT0000711C",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "10.244.214.3",
+    "serverName": "UWKT0000711D",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYBUF",
+    "ip": "DHCP",
+    "serverName": "WKST0000738F",
+    "ServerType": "SPC, UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.202",
+    "serverName": "SVRT0000618B",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.201",
+    "serverName": "SVRT00007CB5",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.203",
+    "serverName": "svrt00005ed7",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.204",
+    "serverName": "svrt00005ed8",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "DHCP",
+    "serverName": "wkst0000600F",
+    "ServerType": "ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "DHCP",
+    "serverName": "wkst00006012",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.222",
+    "serverName": "uwkt00005f5C",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.223",
+    "serverName": "uwkt0000604c",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "DHCP",
+    "serverName": "wkst00006010",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.209",
+    "serverName": "uwkt00005f54",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.205",
+    "serverName": "uwkt00005f5E",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.208",
+    "serverName": "uwkt00005f53",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.217",
+    "serverName": "uwkt00005f2a",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.210",
+    "serverName": "uwkt00005f16",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.221",
+    "serverName": "uwkt00005f17",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.211",
+    "serverName": "UWKT000061BB",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.212",
+    "serverName": "UWKT000061BE",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "NYKEN",
+    "ip": "10.244.214.215",
+    "serverName": "uwkt00005f29",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.113",
+    "serverName": "SVRT0000787B",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.111",
+    "serverName": "SVRT00007871",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.110",
+    "serverName": "SVRT00007880",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.112",
+    "serverName": "SVRT00007872",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.114",
+    "serverName": "SVRT0000787C",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.115",
+    "serverName": "SVRT0000787D",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "DHCP",
+    "serverName": "WKST000082F5",
+    "ServerType": "ADC_Client",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "DHCP",
+    "serverName": "WKST000082F4",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.125",
+    "serverName": "UWKT000078BE",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.126",
+    "serverName": "UWKT000078BF",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "DHCP",
+    "serverName": "UWKT000078AF",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "DHCP",
+    "serverName": "WKST000082F6",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.118",
+    "serverName": "UWKT000078E0",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.116",
+    "serverName": "UWKT00007C1B",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.117",
+    "serverName": "UWKT000078E2",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "DHCP",
+    "serverName": "UWKT000078BD",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.119",
+    "serverName": "UWKT000078B9",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.124",
+    "serverName": "UWKT000078E4",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.120",
+    "serverName": "UWKT000078E3",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.121",
+    "serverName": "UWKT000078BB",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHDAY",
+    "ip": "10.244.223.122",
+    "serverName": "UWKT000078E5",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "10.244.213.168",
+    "serverName": "SVRT00005E53",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "10.244.213.166",
+    "serverName": "SVRT00007582",
+    "ServerType": "LOEOP (IS/AS)",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "10.244.213.167",
+    "serverName": "SVRT00006B9D",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "DHCP",
+    "serverName": "WKST00006409",
+    "ServerType": "DPSDMS64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "DHCP",
+    "serverName": "WKST000083D8",
+    "ServerType": "DRV x64",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "DHCP",
+    "serverName": "UWKT00006280",
+    "ServerType": "DWS",
+    "serverVersion": "Windows 7 x64"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "DHCP",
+    "serverName": "UWKT00005E9A",
+    "ServerType": "GSS-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "DHCP",
+    "serverName": "WKST00006164",
+    "ServerType": "SPC-DMS 64 Bit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHMID",
+    "ip": "DHCP",
+    "serverName": "UWKT00005E99",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHSHA",
+    "ip": "10.241.105.29",
+    "serverName": "SVRT00003166",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHSHA",
+    "ip": "10.241.105.28",
+    "serverName": "SVRT00003165",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHSHA",
+    "ip": "10.241.105.30, DHCP",
+    "serverName": "SVRT00003164",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "OHSHA",
+    "ip": "DHCP",
+    "serverName": "WKST000031B4",
+    "ServerType": "DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHSHA",
+    "ip": "DHCP",
+    "serverName": "WKST000031B7",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHSHA",
+    "ip": "10.241.105.27",
+    "serverName": "WKST000031B3",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "OHSHA",
+    "ip": "DHCP",
+    "serverName": "WKST000031B6",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAI",
+    "ip": "10.245.214.86",
+    "serverName": "SVRT00007856",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ONHAI",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D8C",
+    "ServerType": "DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAI",
+    "ip": "DHCP",
+    "serverName": "UWKT0000844E",
+    "ServerType": "DPS (64-Bit)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAI",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D8A",
+    "ServerType": "DPS1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAI",
+    "ip": "10.245.218.89",
+    "serverName": "UWKT00004D8E",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAI",
+    "ip": "10.245.222.158",
+    "serverName": "UWKT00004D8F",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAI",
+    "ip": "DHCP",
+    "serverName": "WKST00008250",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAM",
+    "ip": "10.244.208.248",
+    "serverName": "SVRT00006D2E",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ONHAM",
+    "ip": "DHCP",
+    "serverName": "UWKT00004CCA",
+    "ServerType": "DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAM",
+    "ip": "DHCP",
+    "serverName": "UWKT00008448",
+    "ServerType": "DPS (64-Bit)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAM",
+    "ip": "DHCP",
+    "serverName": "UWKT00004CC8",
+    "ServerType": "DPS1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONHAM",
+    "ip": "DHCP",
+    "serverName": "UWKT00005476",
+    "ServerType": "UDC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONLON",
+    "ip": "10.245.218.203",
+    "serverName": "SVRT00004C80",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 Standard"
+  },
+  {
+    "Mnemonic": "ONLON",
+    "ip": "DHCP",
+    "serverName": "UWKT00004E0A",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONLON",
+    "ip": "DHCP",
+    "serverName": "UWKT00004F5C",
+    "ServerType": "UDC 01",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMIS",
+    "ip": "10.241.105.16",
+    "serverName": "SVRT00004B78",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ONMIS",
+    "ip": "DHCP",
+    "serverName": "UWKT000071E1",
+    "ServerType": "DPS 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00007391",
+    "ServerType": "GSS - DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMIS",
+    "ip": "10.241.105.222",
+    "serverName": "UWKT00004C7D",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMIS",
+    "ip": "10.241.105.223",
+    "serverName": "UWKT00006DD7",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMIS",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D3D",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMSG",
+    "ip": "10.245.212.4",
+    "serverName": "SVRT00006D26",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "ONMSG",
+    "ip": "DHCP",
+    "serverName": "UWKT0000844A",
+    "ServerType": "BASE OS x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMSG",
+    "ip": "DHCP",
+    "serverName": "WKST00008503",
+    "ServerType": "BASE OS x64  Win10",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "ONMSG",
+    "ip": "DHCP",
+    "serverName": "UWKT00007D04",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "ONMSG",
+    "ip": "DHCP",
+    "serverName": "UWKT00007D05",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "ONMSG",
+    "ip": "DHCP",
+    "serverName": "UWKT00007052",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "ONMSG",
+    "ip": "DHCP",
+    "serverName": "UWKT00007053",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.245.215.198",
+    "serverName": "SVRT00004957",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.245.215.121",
+    "serverName": "SVRT00004941",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.245.215.220",
+    "serverName": "SVRT00004954",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.186",
+    "serverName": "UWKT0000595D",
+    "ServerType": "Cell Controller",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.187",
+    "serverName": "UWKT0000595F",
+    "ServerType": "Export PC/OPLD-DL",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "DHCP",
+    "serverName": "UWKT00005E97",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "DHCP",
+    "serverName": "UWKT00002B41",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.188",
+    "serverName": "UWKT000059E2",
+    "ServerType": "Ireg MGR backup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.191",
+    "serverName": "UWKT00005971",
+    "ServerType": "Irreg Mgr",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.184",
+    "serverName": "UWKT0000592F",
+    "ServerType": "MAINEDIT (ME)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.183",
+    "serverName": "UWKT0000592E",
+    "ServerType": "MFC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.185",
+    "serverName": "UWKT0000595C",
+    "ServerType": "PMG",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.181",
+    "serverName": "UWKT0000592C",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Onyx",
+    "ip": "10.244.215.182",
+    "serverName": "UWKT0000592D",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Opal",
+    "ip": "10.244.212.194",
+    "serverName": "SVRT0000389E",
+    "ServerType": "S&amp;P Database",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Opal",
+    "ip": "DHCP",
+    "serverName": "UWKT00001D67",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Opal",
+    "ip": "DHCP",
+    "serverName": "UWKT00004DAE",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Opal",
+    "ip": "Not Available",
+    "serverName": "UWKT00005884",
+    "ServerType": "Test Harness",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "Opal",
+    "ip": "Not Available",
+    "serverName": "UWKT000062E9",
+    "ServerType": "Test Harness",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "Opal",
+    "ip": "Not Available",
+    "serverName": "UWKTt00005784",
+    "ServerType": "Test Harness",
+    "serverVersion": "Not Available"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "10.245.208.59",
+    "serverName": "SVRT00007488",
+    "ServerType": "FTP-Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "10.245.208.79",
+    "serverName": "SVRT000057E7",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "153.2.253.7",
+    "serverName": "SVRT000057AF",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "153.2.253.5",
+    "serverName": "SVRT000057B3",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "153.2.253.6",
+    "serverName": "SVRT000057B0",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00006558",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00008000",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00007808",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "10.242.60.56",
+    "serverName": "UWKT00003726",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00003727",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "DHCP",
+    "serverName": "UWKT000057D1",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "10.242.63.239",
+    "serverName": "UWKT000057F1",
+    "ServerType": "SmartScan",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAPHA",
+    "ip": "10.242.63.238",
+    "serverName": "UWKT000057F2",
+    "ServerType": "SmartScan",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "10.245.215.211",
+    "serverName": "SVRT0000495E",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "10.245.215.168",
+    "serverName": "SVRT00004949",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "DHCP",
+    "serverName": "UWKT00005B9B",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "DHCP",
+    "serverName": "UWKT000003EC",
+    "ServerType": "GSSD / MainEdit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "DHCP",
+    "serverName": "UWKT00005FAC",
+    "ServerType": "GSSD-2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "10.242.63.229",
+    "serverName": "UWKT00002575",
+    "ServerType": "Smart Scan PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "DHCP",
+    "serverName": "WKST00005419",
+    "ServerType": "Smart Scan PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PAWLG",
+    "ip": "DHCP",
+    "serverName": "WKST00005418",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Peakskill",
+    "ip": "10.241.107.195",
+    "serverName": "GAPLETSV0",
+    "ServerType": "LOEMR",
+    "serverVersion": "Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Peakskill",
+    "ip": "10.241.107.193",
+    "serverName": "GAPLETSV00",
+    "ServerType": "LOEOP",
+    "serverVersion": "Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Peakskill",
+    "ip": "10.241.107.196",
+    "serverName": "GAPLETSV0000",
+    "ServerType": "LOEPS",
+    "serverVersion": "Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Peakskill",
+    "ip": "DHCP",
+    "serverName": "UWKT00003661",
+    "ServerType": "Irreg",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Peakskill",
+    "ip": "DHCP",
+    "serverName": "UWKT00003662",
+    "ServerType": "Irreg",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Peakskill",
+    "ip": "10.244.218.10",
+    "serverName": "UWKT00003663",
+    "ServerType": "Irreg",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Peakskill",
+    "ip": "10.242.60.112",
+    "serverName": "UWKT00003660",
+    "ServerType": "Irreg Mgr",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "10.245.209.87",
+    "serverName": "SVRT00006D2D",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "DHCP",
+    "serverName": "WKST00007951",
+    "ServerType": "DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "DHCP",
+    "serverName": "WKST00007CFF",
+    "ServerType": "DCS2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "DHCP",
+    "serverName": "UWKT00004BC8",
+    "ServerType": "DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "153.2.252.73",
+    "serverName": "UWKT0000591C",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "153.2.252.74",
+    "serverName": "UWKT0000591D",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "DHCP",
+    "serverName": "UWKT00004BC6",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PECHT",
+    "ip": "DHCP",
+    "serverName": "WKST000078AB",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PLRZZ",
+    "ip": "10.245.209.246",
+    "serverName": "SVRT00006D27",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "PLRZZ",
+    "ip": "DHCP",
+    "serverName": "UWKT00006DC1",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PLRZZ",
+    "ip": "DHCP",
+    "serverName": "UWKT0000778A",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PLRZZ",
+    "ip": "DHCP",
+    "serverName": "UWKT000057BE",
+    "ServerType": "UDC1_DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PLRZZ",
+    "ip": "DHCP",
+    "serverName": "UWKT000057B8",
+    "ServerType": "UDC2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PLWAW",
+    "ip": "10.244.219.74",
+    "serverName": "SVRT000071B6",
+    "ServerType": "SiteNode",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "PLWAW",
+    "ip": "10.242.60.239",
+    "serverName": "UWKT00003F82",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PLWAW",
+    "ip": "10.242.60.240",
+    "serverName": "UWKT00003F83",
+    "ServerType": "GSS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PQBRO",
+    "ip": "10.245.208.251",
+    "serverName": "SVRT00006A33",
+    "ServerType": "SILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "PWS",
+    "ip": "DHCP",
+    "serverName": "UWKT00005BAD",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "PWS",
+    "ip": "DHCP",
+    "serverName": "UWKT00007952",
+    "ServerType": "Discovery",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "PWS",
+    "ip": "DHCP",
+    "serverName": "UWKT0000481D",
+    "ServerType": "PWS",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.245.220.12",
+    "serverName": "svrt0000506F",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.245.217.249",
+    "serverName": "svrt00005074",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.245.217.31",
+    "serverName": "svrt00005070",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.242.61.54",
+    "serverName": "uwkt0000562E",
+    "ServerType": "Bagging",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.242.61.53",
+    "serverName": "uwkt0000562D",
+    "ServerType": "Cell Controller",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.242.60.238",
+    "serverName": "uwkt0000562F",
+    "ServerType": "Export WKS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.242.60.241",
+    "serverName": "uwkt00005630",
+    "ServerType": "MAINEDIT (ME)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "10.242.63.196",
+    "serverName": "uwkt00005632",
+    "ServerType": "Think n Do",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Rainier",
+    "ip": "DHCP",
+    "serverName": "uwkt0000583A",
+    "ServerType": "XLE New Interface",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "REAP",
+    "ip": "DHCP, 192.168.66.1, 192.168.142.1",
+    "serverName": "WKST00007BB5",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "REAP",
+    "ip": "DHCP",
+    "serverName": "UWKT0000809E",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "REAP",
+    "ip": "DHCP, 192.168.44.1, 192.168.19.1",
+    "serverName": "WKST00007C82",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "10.245.215.205",
+    "serverName": "SVRT00004962",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "10.242.61.81",
+    "serverName": "SVRT00006459",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "10.245.216.38",
+    "serverName": "SVRT0000495B",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "10.242.60.195",
+    "serverName": "WKST00004D72",
+    "ServerType": "DPS &amp; DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "DHCP",
+    "serverName": "UWKT000064AC",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "DHCP",
+    "serverName": "UWKT000064B2",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "DHCP",
+    "serverName": "UWKT00006620",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "10.242.60.193",
+    "serverName": "UWKT00004D6B",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "10.242.60.192",
+    "serverName": "UWKT00004D6C",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Ruby",
+    "ip": "10.242.60.194",
+    "serverName": "WKST00004D76",
+    "ServerType": "SPC, UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "SGCHA",
+    "ip": "10.244.218.9",
+    "serverName": "SVRT00007A50",
+    "ServerType": "SiteNode",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "SGCHA",
+    "ip": "10.242.60.205",
+    "serverName": "UWKT00008818",
+    "ServerType": "GSS",
+    "serverVersion": "Windows 10 X64"
+  },
+  {
+    "Mnemonic": "SGCHA",
+    "ip": "10.242.60.209",
+    "serverName": "UWKT00008828",
+    "ServerType": "GSS",
+    "serverVersion": "Windows 10 X64"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.3",
+    "serverName": "GAFPATSV0002",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.1",
+    "serverName": "GAFPATSV0001",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.4",
+    "serverName": "GAFPATSV0003",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.10",
+    "serverName": "WKST00006656",
+    "ServerType": "Backup SPC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.28",
+    "serverName": "WKST0000450B",
+    "ServerType": "DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.8",
+    "serverName": "WKST00004393",
+    "ServerType": "DPS/DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.11",
+    "serverName": "WKST0000554B",
+    "ServerType": "DPS1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "DHCP",
+    "serverName": "WKST000085BB",
+    "ServerType": "DPSDMS64",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "DHCP",
+    "serverName": "WKST000072F8",
+    "ServerType": "Driver Check In",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "DHCP",
+    "serverName": "WKST00008600",
+    "ServerType": "DRV x64",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.16",
+    "serverName": "WKST00004391",
+    "ServerType": "DRV-2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "DHCP",
+    "serverName": "WKST000072E6",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "DHCP",
+    "serverName": "WKST000085B8",
+    "ServerType": "SPC-DMS 64 Bit",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.5",
+    "serverName": "WKST0000554E",
+    "ServerType": "SPC-UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "DHCP",
+    "serverName": "WKST00007911",
+    "ServerType": "UDC - 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "DHCP",
+    "serverName": "WKST000085BA",
+    "ServerType": "UDC x64",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.14",
+    "serverName": "WKST00004394",
+    "ServerType": "UDC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Silver",
+    "ip": "10.241.107.12",
+    "serverName": "WKST0000663F",
+    "ServerType": "UDC-DMS x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "SMS Workgroup",
+    "ip": "DHCP",
+    "serverName": "WKST00007D5A",
+    "ServerType": "Discovery",
+    "serverVersion": "Windows 10 X64"
+  },
+  {
+    "Mnemonic": "SMS Workgroup",
+    "ip": "DHCP",
+    "serverName": "WKST00004FF4",
+    "ServerType": "SMS Workgroup Build",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "SMS Workgroup",
+    "ip": "DHCP",
+    "serverName": "WKST00004FF5",
+    "ServerType": "SMS Workgroup Build",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "SMS Workgroup",
+    "ip": "DHCP",
+    "serverName": "WKST000062AE",
+    "ServerType": "SMS Workgroup Build",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "SMS Workgroup",
+    "ip": "DHCP",
+    "serverName": "UWKT0000805D",
+    "ServerType": "SMS Workgroup Build",
+    "serverVersion": "Windows 10 X64"
+  },
+  {
+    "Mnemonic": "SUNSTONE",
+    "ip": "DHCP",
+    "serverName": "UWKT0000239E",
+    "ServerType": "GSSD / MainEdit",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "SUNSTONE",
+    "ip": "10.242.61.154",
+    "serverName": "UWKT00002DC0",
+    "ServerType": "SmartScan",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "SUNSTONE",
+    "ip": "10.242.61.155",
+    "serverName": "UWKT00002DC1",
+    "ServerType": "SmartScan",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "Tamworth",
+    "ip": "10.244.215.64",
+    "serverName": "SVRT00005521",
+    "ServerType": "SILOE",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "Tamworth",
+    "ip": "10.242.60.227",
+    "serverName": "UWKT000054F9",
+    "ServerType": "Main Edit",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Tamworth",
+    "ip": "10.242.60.226",
+    "serverName": "UWKT00005500",
+    "ServerType": "MFC",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "Tamworth",
+    "ip": "10.242.60.228",
+    "serverName": "UWKT00005501",
+    "ServerType": "Sort PC",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "Tamworth",
+    "ip": "10.242.60.229",
+    "serverName": "UWKT00005502",
+    "ServerType": "Sort PC",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "153.2.253.21",
+    "serverName": "SVRT00005C2E",
+    "ServerType": "HFCS Server (r07d32tsg1)",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "10.245.214.20",
+    "serverName": "SVRT00006D1C",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "10.245.217.37",
+    "serverName": "SVRT00004D9A",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "10.245.219.134",
+    "serverName": "SVRT00004DCE",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00004DCF",
+    "ServerType": "DCS-DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "WKST00007CC8",
+    "ServerType": "Discovery",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00004DD0",
+    "ServerType": "DPS &amp; DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT0000801F",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D9B",
+    "ServerType": "GSSi1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00004D9C",
+    "ServerType": "GSSI2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT0000741D",
+    "ServerType": "GSS-OCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00005C7D",
+    "ServerType": "HFCS GUI (r07d32tsg1)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "10.241.104.156",
+    "serverName": "UWKT0000757B",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "10.241.104.157",
+    "serverName": "UWKT0000757C",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "Not Available",
+    "serverName": "WKST00007216",
+    "ServerType": "SPC-UDC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TNCHA",
+    "ip": "DHCP",
+    "serverName": "UWKT00007308",
+    "ServerType": "UDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Turquoise",
+    "ip": "DHCP",
+    "serverName": "UWKT000018A5",
+    "ServerType": "Tivoli Development",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Turquoise",
+    "ip": "10.244.208.66",
+    "serverName": "SVRT00006B59",
+    "ServerType": "VILOE",
+    "serverVersion": "Microsoft Windows Server 2012 R2 Standard"
+  },
+  {
+    "Mnemonic": "Turquoise",
+    "ip": "10.242.60.168",
+    "serverName": "UWKT00006BB5",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Turquoise",
+    "ip": "10.242.60.169",
+    "serverName": "UWKT000086DC",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.217.19",
+    "serverName": "SVRT0000626D",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.198",
+    "serverName": "SVRT0000618C",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.127",
+    "serverName": "SVRT00005ED2",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.199",
+    "serverName": "SVRT00006101",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.200",
+    "serverName": "SVRT00006102",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "DHCP",
+    "serverName": "WKST00006124",
+    "ServerType": "ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "DHCP",
+    "serverName": "WKST00006126",
+    "ServerType": "E2DC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.217",
+    "serverName": "UWKT00006110",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.218",
+    "serverName": "UWKT00006111",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "DHCP",
+    "serverName": "UWKT00006289",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "DHCP",
+    "serverName": "WKST00006125",
+    "ServerType": "IDC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.209",
+    "serverName": "UWKT00006108",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.201",
+    "serverName": "UWKT00006106",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.202",
+    "serverName": "UWKT00006107",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.215",
+    "serverName": "UWKT0000610E",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.210",
+    "serverName": "UWKT00006109",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.216",
+    "serverName": "UWKT0000610F",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.212",
+    "serverName": "UWKT0000610A",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.213",
+    "serverName": "UWKT0000610B",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "TXAST",
+    "ip": "10.244.215.214",
+    "serverName": "UWKT0000610D",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARIC",
+    "ip": "10.245.210.162",
+    "serverName": "SVRT000021C1",
+    "ServerType": "GssReporting",
+    "serverVersion": "Server 2008"
+  },
+  {
+    "Mnemonic": "VARIC",
+    "ip": "10.245.210.161",
+    "serverName": "SVRT000021C2",
+    "ServerType": "Server",
+    "serverVersion": "Server 2008 R2"
+  },
+  {
+    "Mnemonic": "VARIC",
+    "ip": "10.245.210.160",
+    "serverName": "SVRT000021C3",
+    "ServerType": "SiteNode",
+    "serverVersion": "Server 2008 R2"
+  },
+  {
+    "Mnemonic": "VARIC",
+    "ip": "DHCP",
+    "serverName": "UWKT00002268",
+    "ServerType": "GSSD",
+    "serverVersion": "Windows 7 X86"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.227",
+    "serverName": "SVRT00002FEE",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.225",
+    "serverName": "SVRT00002FED",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.228",
+    "serverName": "SVRT00002FEF",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.229",
+    "serverName": "WKST00003036",
+    "ServerType": "DCI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.236",
+    "serverName": "WKST000043D9",
+    "ServerType": "DMS SNAP",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "UWKT00007924",
+    "ServerType": "DMS2-DPS2 x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.238",
+    "serverName": "WKST000043DB",
+    "ServerType": "DPS1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.230",
+    "serverName": "UWKT00006F39",
+    "ServerType": "DPS-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.235",
+    "serverName": "WKST0000748E",
+    "ServerType": "GSS - DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.104.161",
+    "serverName": "UWKT00006E7C",
+    "ServerType": "MFC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.237",
+    "serverName": "WKST000043DA",
+    "ServerType": "OPLD Test Harness",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.5",
+    "serverName": "UWKT0000704D",
+    "ServerType": "Smart Scan PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.6",
+    "serverName": "UWKT0000704F",
+    "ServerType": "Smart Scan PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.104.73",
+    "serverName": "UWKT00006E7A",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.104.74",
+    "serverName": "UWKT00006E7B",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.105.232",
+    "serverName": "WKST00003032",
+    "ServerType": "SPC-UDC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST0000814B",
+    "ServerType": "Test Harness",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST0000814D",
+    "ServerType": "Test Harness",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST0000814E",
+    "ServerType": "Test Harness",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00008150",
+    "ServerType": "Test Harness",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00008151",
+    "ServerType": "Test Harness",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00008155",
+    "ServerType": "Test Harness",
+    "serverVersion": "Microsoft Windows 10 Pro"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00005687",
+    "ServerType": "Test Harness 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "DHCP",
+    "serverName": "WKST00005688",
+    "ServerType": "Test Harness 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VARMD",
+    "ip": "10.241.104.231",
+    "serverName": "UWKT00006F3A",
+    "ServerType": "UDC-DMS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "VASTA",
+    "ip": "10.245.216.39",
+    "serverName": "SVRT00004964",
+    "ServerType": "Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "VASTA",
+    "ip": "10.245.215.206",
+    "serverName": "SVRT0000496A",
+    "ServerType": "Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.229",
+    "serverName": "SVRT000062F8",
+    "ServerType": "HFCS Server",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.226",
+    "serverName": "SVRT000062EA",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.225",
+    "serverName": "SVRT00005ED4",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.227",
+    "serverName": "SVRT000062FC",
+    "ServerType": "Sort Server 1",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.228",
+    "serverName": "SVRT000062F9",
+    "ServerType": "Sort Server 2",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "DHCP",
+    "serverName": "WKST000062E3",
+    "ServerType": "GSS-DCS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.239",
+    "serverName": "UWKT00006307",
+    "ServerType": "GSSI - Primary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.240",
+    "serverName": "UWKT00006308",
+    "ServerType": "GSSI - Secondary",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "DHCP",
+    "serverName": "UWKT000062F7",
+    "ServerType": "HFCS GUI",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.232",
+    "serverName": "UWKT00007DF3",
+    "ServerType": "Irregs Station  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.230",
+    "serverName": "UWKT000062F6",
+    "ServerType": "MFC 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.231",
+    "serverName": "UWKT000062F5",
+    "ServerType": "OBSM 1 WKS  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.237",
+    "serverName": "UWKT00006305",
+    "ServerType": "Scan Station  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.233",
+    "serverName": "UWKT000062F3",
+    "ServerType": "Simulator  (Bigs  &amp; Irregs)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.238",
+    "serverName": "UWKT00006306",
+    "ServerType": "Simulator  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.234",
+    "serverName": "UWKT00006302",
+    "ServerType": "Sort PC 1  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.214.90",
+    "serverName": "UWKT000076EA",
+    "ServerType": "Sort PC 2  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "DHCP",
+    "serverName": "WKST000062E2",
+    "ServerType": "SPC_ADC_DataSup",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "10.244.215.236",
+    "serverName": "UWKT00006304",
+    "ServerType": "Standalone MFC  (Smalls &amp; NGSS)",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "WASEA",
+    "ip": "DHCP",
+    "serverName": "WKST000062E4",
+    "ServerType": "UDC-DMS-DPS",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Washington",
+    "ip": "10.241.104.239",
+    "serverName": "svrt00005132",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Washington",
+    "ip": "10.241.104.237",
+    "serverName": "svrt00005131",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Washington",
+    "ip": "10.241.104.240",
+    "serverName": "svrt00005133",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Washington",
+    "ip": "10.242.63.190",
+    "serverName": "uwkt000057d8",
+    "ServerType": "MFC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Washington",
+    "ip": "10.242.60.242",
+    "serverName": "uwkt000057d5",
+    "ServerType": "Sort  PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Washington",
+    "ip": "10.242.60.243",
+    "serverName": "uwkt00005813",
+    "ServerType": "Sort  PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.241.107.195",
+    "serverName": "gapletsv000B",
+    "ServerType": "LOEMR",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.241.107.193",
+    "serverName": "gapletsv0009",
+    "ServerType": "LOEOP",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.241.107.196",
+    "serverName": "gapletsv000c",
+    "ServerType": "LOEPS",
+    "serverVersion": "Microsoft Windows Server 2008 R2 Standard"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "DHCP",
+    "serverName": "wkst0000564e",
+    "ServerType": "GSSD",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.242.63.201",
+    "serverName": "uwkt0000719f",
+    "ServerType": "GSSI Super Wkstn 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "DHCP",
+    "serverName": "uwkt000071a1",
+    "ServerType": "GSSI Super Wkstn 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.242.60.233",
+    "serverName": "uwkt00005526",
+    "ServerType": "NGSS Main Edit",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.244.208.55",
+    "serverName": "uwkt00006a03",
+    "ServerType": "NGSS Main Edit x64",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.242.60.232",
+    "serverName": "uwkt00005525",
+    "ServerType": "NGSS MFC",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.242.60.230",
+    "serverName": "uwkt00005523",
+    "ServerType": "NGSS Sort PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.242.60.231",
+    "serverName": "uwkt00005524",
+    "ServerType": "NGSS Sort PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.242.63.139",
+    "serverName": "uwkt0000719e",
+    "ServerType": "Smart Scan PC 1",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "Whitney",
+    "ip": "10.242.63.140",
+    "serverName": "uwkt0000719d",
+    "ServerType": "Smart Scan PC 2",
+    "serverVersion": "Microsoft Windows 7 Professional"
+  },
+  {
+    "Mnemonic": "World Port",
+    "ip": "DHCP",
+    "serverName": "UWKT0000718F",
+    "ServerType": "Discovery",
+    "serverVersion": "Windows 7 X64"
+  },
+  {
+    "Mnemonic": "World Port",
+    "ip": "DHCP",
+    "serverName": "UWKT0000718d",
+    "ServerType": "Discovery",
+    "serverVersion": "Windows 7 X64"
+  }
+]

@@ -1,0 +1,36 @@
+<div class="card-box">
+    <h4 class="header-title m-b-30 m-t-0">ETW Events</h4>
+    <div id="datatable-wrapper" class="table table-striped no-footer">
+        <div class="row">
+            <div class="pull-right col-xs-4">
+                <input type="text" class="form-control" ng-model="eventListSearchText" placeholder="Keyword" style="padding-right:21px">
+                <br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <table class="table table-sm" id="etl-table">
+                    <thead>
+                        <tr>
+                            <th>Event Time</th>
+                            <th>Key</th>
+                            <th>Event Log</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="etw in etwData| eventListFilter:eventListSearchText">
+                            <td>{{etw.time}}</td>
+                            <td>{{etw.key}}</td>
+                            <td ng-click="displayETWData(etw.log, $index)"><pre ng-class="($index==selectedIndex) ? 'selected' : ''"><code>{{Truncate(etw.log,190)}}</code></pre></td>
+                        </tr>
+                    </tbody>
+
+                </table>
+
+            </div>
+
+           
+
+        </div>
+    </div>
+</div>

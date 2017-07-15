@@ -1,0 +1,17 @@
+{
+  "name": "ETLParser",
+  "description": "ETL Parser Gateway",
+  "version": "0.0.1",
+  "author": {
+    "name": "vwh0pzw",
+    "email": "zihaoyang@ups.com"
+  },
+  "license": "UPS",
+  "dependencies": {
+    "mongodb": "*",
+    "mongojs": "*"
+  },
+  "devDependencies": {},
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "6.0.0"
+}

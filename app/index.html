@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="../public/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../public/css/index.css" rel="stylesheet" />
+    <link href="../public/css/third-party/loading-bar.min.css" rel="stylesheet" />
+
+
+    <title>ETL Viewer</title>
+    <meta charset="utf-8" />
+
+</head>
+<body ng-app="udcDev">
+
+
+    <div class="wrapper" ng-controller="etlViewer">
+        <div ng-include src="'../public/sharedviews/navbar.html'"></div>
+        <div class="container-fluid">
+            <div class="row">
+                
+                <div>
+                    <div class="col-xs-12">
+                        <div ng-include src="'Views/MainEventsTable.html'"></div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <script src="../public/js/jquery-1.9.1.min.js"></script>
+    <script src="../public/js/bootstrap.min.js"></script>
+    <script src="../public/js/angular.js"></script>
+    <script src="../public/js/angular-route.js"></script>
+
+
+    <!--Third Party - loading bar-->
+    <script src="../public/js/third-party/loading-bar.min.js"></script>
+
+    <script src="app.js"></script>
+    <script src="Controllers/etlviewerController.js"></script>
+    <script src="Filters/etlviewerFilter.js"></script>
+    <script src="../public/js/vkbeautify.js"></script>
+
+
+
+    
+
+</body>
+</html>

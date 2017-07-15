@@ -1,0 +1,22 @@
+﻿<div class="card-box etwdata-detail" ng-style="cssDisplayOnETWDetail">
+    <h4 class="header-title m-b-30 m-t-0">ETW Events Detail</h4>
+    <div class="row">
+
+        <div class="pull-right" style="padding-right: 15px;">
+            <button type="button" class="btn btn-success btn-outline" ng-click="refresh()">Refresh</button>
+        </div>
+
+        <div class="pull-right" style="width: 150px;padding-right: 15px;">
+            <input type="text" class="form-control" ng-model="eventDetailSearchText" placeholder="Keyword">
+            <br />
+        </div>
+
+    </div>
+
+    <div id="etwdatadisplay-wrapper">
+        <!--<pre ng-bind-html="renderHtml(etwDataDetailRendered)"></pre>-->
+        <!--| eventDetailHightLightFilter: eventDetailSearchText-->
+        <pre ng-bind-html="etwDataDetailRendered | eventDetailHightLightFilter: eventDetailSearchText"></pre>
+    </div>
+
+</div>

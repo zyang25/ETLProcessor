@@ -1,0 +1,14 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th>Timestamp</th>
+        <th>Log</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="etw in etwData| eventListFilter:eventListSearchText">
+            <td>{{etw.time}}</td>
+            <td ng-click="displayETWData(etw.log, $index)"><pre ng-class="($index==selectedIndex) ? 'selected' : ''"><code>{{Truncate(etw.log,190)}}</code></pre></td>
+        </tr>
+    </tbody>
+  </table>

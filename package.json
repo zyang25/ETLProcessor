@@ -1,0 +1,20 @@
+{
+  "name": "ETLViewer",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": {
+    "name": "VWH0PZW",
+    "email": "zihaoyang@ups.com"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jquery": "^3.2.1",
+    "mongodb": "^2.2.12",
+    "mongojs": "*",
+    "nodemon": "*",
+    "request": "*",
+    "underscore": "*"
+  }
+}

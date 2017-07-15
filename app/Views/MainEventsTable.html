@@ -1,0 +1,19 @@
+<br>
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th class="col-xs-1">Timestamp</th>
+      <th class="col-xs-11">Events</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <tr ng-repeat="event in mongoETLEvents">
+      <td>{{event.timestamp}}</td>
+      <td>{{event.trace}}</td>
+      <!-- <td ng-click="displayETWData(etw.log, $index)"><pre ng-class="($index==selectedIndex) ? 'selected' : ''"><code>{{Truncate(etw.log,190)}}</code></pre></td>
+  </tr> -->
+
+
+  </tbody>
+</table>
